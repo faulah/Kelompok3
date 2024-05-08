@@ -1,0 +1,30 @@
+# Nama Aplikasi
+> Deskripsi Aplikasi Expo Kampus 2024 adalah sebuah proyek yang mengusung tema "Unlock the Doors to Endless Possibility" dan mengundang pengguna untuk memulai perjalanan pendidikan yang luar biasa di Pameran Pendidikan Internasional 2024. Dengan visi ini, proyek bertujuan untuk menciptakan sebuah platform daring yang revolusioner, menyediakan akses ke berbagai peluang pendidikan di seluruh dunia
+
+## featur
+Sprint 1
+* home
+* daftar
+* pembayaran
+* jadwal
+
+## Keterangan Folder
+>
+
+
+### Requirements
+
+* node 8+
+* php 7+
+* composer 1.9+
+* yarn 1.13+ or npm 6.4+
+
+### Installation
+> cara instalasi
+
+## [Usage](#usage)
+> 
+
+
+## [Configuration](#configuration)
+> konfigurasi yang dibutuhkan jika ada
